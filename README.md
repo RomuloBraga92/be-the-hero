@@ -6,3 +6,5 @@ A aplicação foi desenvolvida com as seguintes stacks:
 Backend: NodeJS,
 Frontend: ReactJS,
 Mobile: React Native.
+
+Ao abrir cada stack, lembrar de usar o comando yarn ou npm install!
