@@ -49,8 +49,8 @@ export default function Detail() {
         <Text style={[styles.incidentPrimary, { marginTop: 0 }]}>ONG:</Text>
         <Text style={styles.incidentSecondary}>{incident.name} de {incident.city} / {incident.uf}</Text>
 
-        <Text style={styles.incidentPrimary}>CASO:</Text>
-        <Text style={styles.incidentSecondary}>{incident.title}</Text>
+        <Text style={styles.incidentPrimary}>DESCRIÇÃO:</Text>
+        <Text style={styles.incidentSecondary}>{incident.description}</Text>
 
         <Text style={styles.incidentPrimary}>Valor:</Text>
         <Text style={styles.incidentSecondary}>
