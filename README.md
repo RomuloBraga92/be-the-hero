@@ -1,5 +1,6 @@
+<p align="center">
 <img src="/mobile/assets/splash.png" height="550" width="350">
-
+</p>
 # be-the-hero
 Aplicação fullstack desenvolvida na semana omnistack 11.0 da rocketseat
 A aplicação tem como objetivo criar uma aplicação que conecte casos de ONGs com
